@@ -1,9 +1,0 @@
-BRH 19
-    62
-    1
-LDA 17
-SUB 18
-CBR 23
-BRH 20
-STR 501
-END
