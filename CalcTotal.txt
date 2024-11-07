@@ -1,0 +1,15 @@
+BRH 8
+    10
+    20
+    40
+    60
+    23
+    45
+ADD 2
+ADD 3
+ADD 4
+ADD 5
+ADD 6
+ADD 7
+STR 500
+END
